@@ -8,13 +8,3 @@ Ce projet vise à développer un modèle d'apprentissage automatique capable de 
 * `data.csv`: Le fichier de données contenant les descripteurs moléculaires et la solubilité des composés.
 * `main.py`: Le script Python principal contenant le code pour l'exploration des données, le prétraitement, la construction et l'évaluation du modèle de prédiction.
 
-## Configuration de l'Environnement
-
-Assurez-vous d'avoir Python 3.x installé, ainsi que les bibliothèques suivantes. Il est recommandé d'utiliser Anaconda pour gérer votre environnement, car Spyder est souvent inclus.
-
-```bash
-# Pour installer les bibliothèques nécessaires si vous utilisez pip
-pip install pandas scikit-learn numpy matplotlib seaborn
-# Si vous utilisez Anaconda, la plupart sont déjà incluses avec Spyder.
-# Si Spyder n'est pas installé:
-conda install spyder
